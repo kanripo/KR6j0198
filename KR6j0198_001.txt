@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:44.130185
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:32
 #+TITLE: 寶樓閣經梵字真言
 #+PROPERTY: CBETA_ID T19n1005B
 #+PROPERTY: ID KR6j0198
